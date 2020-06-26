@@ -1,0 +1,3 @@
+centralized_configuration: 9000
+authentication_aggregation_service: 9010
+user_persistence_service: 9030
